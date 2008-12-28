@@ -20,7 +20,7 @@
 
 == INSTALL:
 
-* sudo gem install jgailor-except --source http://gems.github.com
+* sudo gem install JGailor-except --source http://gems.github.com/
 
 == LICENSE:
 
