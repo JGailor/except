@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
    s.name = %q{except}
-   s.version = "0.1.1"
+   s.version = "0.1.2"
    s.date = %q{2008-12-28}
    s.authors = ["Jeremy Gailor"]
    s.email = %q{jeremy@infinitecube.com}

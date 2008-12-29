@@ -1,3 +1,7 @@
+=== 0.1.2 / 2008-12-28
+
+* Added a more lenient regex for splitting up the field names for the :except clause
+
 === 0.1.1 / 2008-12-28
 
 * Replaced the find_all with a simple array subtraction.  Duh.
