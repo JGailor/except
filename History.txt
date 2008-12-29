@@ -1,4 +1,8 @@
-=== 1.0.0 / 2008-12-27
+=== 0.1.1 / 2008-12-28
+
+* Replaced the find_all with a simple array subtraction.  Duh.
+
+=== 0.1.0 / 2008-12-27
 
 * 1 major enhancement
 

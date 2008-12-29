@@ -1,3 +1,5 @@
+Changelog
+except.gemspec
 History.txt
 Manifest.txt
 README.txt
