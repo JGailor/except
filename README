@@ -1,8 +1,8 @@
-## Except
+= Except
 
-http://github.com/JGailor/except/tree/master
+* http://github.com/JGailor/except/tree/master
 
-### DESCRIPTION:
+== DESCRIPTION:
 
   Except gives you the ability to leave fields out of your ActiveRecord queries when querying for your models.  If you have large fields that you don't want to take a performance hit for (such as binary fields, or text fields), just specify :except => "field1, field2, ..." in your find.
 
